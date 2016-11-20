@@ -1,0 +1,24 @@
+{
+  "name": "slytherin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PandelisZ/slytherin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PandelisZ/slytherin/issues"
+  },
+  "homepage": "https://github.com/PandelisZ/slytherin#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-throttle-requests": "^1.0.4"
+  }
+}
